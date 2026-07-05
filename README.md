@@ -13,7 +13,7 @@ El agente recibe una cartera de clientes en formato JSON, aplica reglas de negoc
 
 ## Diagrama de arquitectura
 
-![Diagrama de arquitectura del agente](docs/diagrama_arquitectura.png)
+![Diagrama de arquitectura del agente](docs/diagrama_agente_cobranza.png)
 
 ### Segmentos de cobranza
 
