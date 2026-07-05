@@ -1,0 +1,39 @@
+{
+  "cartera": [
+    {
+      "cliente": "gabriela mendoza",
+      "deuda": 45.00,
+      "dias_mora": 10,
+      "tiempo_cortado_dias": 0,
+      "plan_internet": 300
+    },
+    {
+      "cliente": "roberto silva",
+      "deuda": 78.50,
+      "dias_mora": 25,
+      "tiempo_cortado_dias": 0,
+      "plan_internet": 600
+    },
+    {
+      "cliente": "patricia leon",
+      "deuda": 120.00,
+      "dias_mora": 45,
+      "tiempo_cortado_dias": 15,
+      "plan_internet": 800
+    },
+    {
+      "cliente": "andres castillo",
+      "deuda": 95.00,
+      "dias_mora": 72,
+      "tiempo_cortado_dias": 42,
+      "plan_internet": 500
+    },
+    {
+      "cliente": "lucia herrera",
+      "deuda": 200.00,
+      "dias_mora": 90,
+      "tiempo_cortado_dias": 62,
+      "plan_internet": 1000
+    }
+  ]
+}
